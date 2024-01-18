@@ -1,4 +1,4 @@
 FROM node:alpine
-COPY ./helloworld
-WORKDIR /helloworld
+COPY ./hello-world
+WORKDIR /hello-world
 CMD node helloworld.js
