@@ -1,2 +1,3 @@
 # hello-world
-my first repository Git Hub.
+# My first repository Git Hub. 
+# I LOVE PROGRAMMING.
